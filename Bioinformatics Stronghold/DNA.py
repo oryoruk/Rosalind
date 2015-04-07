@@ -1,7 +1,7 @@
 #!usr/bin/python
 
 datasetFile = open("rosalind_dna.txt","r")
-answerFile = open("rosalind_dna_answer","w")
+answerFile = open("rosalind_dna_answer.txt","w")
 
 #nucleotideCounter = {}
 
